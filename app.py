@@ -18,6 +18,17 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
+st.markdown("""
+<div style="background:#7B3F00;border-left:5px solid #FF9800;padding:10px 20px;
+            font-family:Arial;font-size:13px;color:#FFE0B2;letter-spacing:0.03em;">
+  <b>DEMO VERSION — REPRESENTATIVE DATA ONLY</b> &nbsp;|&nbsp;
+  All bin locations, SKU names, outbound values, and classifications shown here are
+  randomly generated and have no correlation to real KDP warehouse data or operations.
+  This dashboard is a portfolio demonstration of the analytical framework built for
+  Keurig Dr Pepper Sumner DC by MSBA Team 3, University of Washington Tacoma.
+</div>
+""", unsafe_allow_html=True)
+
 @st.cache_data
 def fetch_bins(username=None, password=None):
     """Representative demo data for the Sumner DC warehouse map."""
