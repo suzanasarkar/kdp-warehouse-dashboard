@@ -8,11 +8,12 @@ An interactive warehouse slotting dashboard built for the KDP Sumner Distributio
 
 > ⚠️ DEMO VERSION - REPRESENTATIVE DATA ONLY
 >
-> This project was developed as a client-facing internship engagement with Keurig Dr Pepper's Sumner Distribution Center operations team. All data used in the production version of this project is proprietary and was provided directly by KDP - it is not sourced from any publicly available dataset.
+> This project was developed as a client-facing internship engagement with Keurig Dr Pepper's Sumner Distribution Center operations team. All data used in the production version of this project is proprietary and was provided directly by KDP 
 >
-> All bin locations, SKU names, outbound values, ABC classifications, and warehouse metrics shown in this public demo are randomly generated and have absolutely no correlation to real KDP warehouse data, real SKU inventory, or actual Keurig Dr Pepper operations.
->
+> 
 > The production version of this dashboard connects to a secure Azure SQL database containing real operational data and is intended for active use by the KDP Sumner DC operations team. That version is not publicly accessible.
+> 
+> All bin locations, SKU names, outbound values, ABC classifications, and warehouse metrics shown in this public demo are randomly generated and have absolutely no correlation to real KDP warehouse data, real SKU inventory, or actual Keurig Dr Pepper operations.
 
 ---
 
