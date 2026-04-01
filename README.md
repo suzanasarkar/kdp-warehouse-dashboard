@@ -1,5 +1,5 @@
-KDP Sumner DC - Warehouse Re-Slotting Dashboard
-MSBA Capstone Project for Keurig Dr Pepper Distribution Center in Sumner, Washington | University of Washington Tacoma
+KDP Warehouse Re-Slotting Dashboard
+MSBA Capstone Project for Keurig Dr Pepper Distribution Center in Sumner, Washington, University of Washington
 An interactive warehouse slotting dashboard built for the KDP Sumner Distribution Center (224,000 sq ft, 5,617 bins, 281 active FG SKUs).
 
 
@@ -21,7 +21,7 @@ Warehouse floor plan - SVG map of the Sumner DC showing all zones and dock doors
 
 
 Color Coding
-ColorMeaningRedClass A - top 80% outbound valueGreenClass B - next 15% outbound valueCyanClass C - remaining SKUsDark greyEmpty binGoldBlocked bin
+Red: Class A - top 80% outbound value Green: Class B - next 15% outbound value Cyan: Class C - remaining SKUs Dark grey: Empty bin Gold: Blocked bin
 
 Project Context
 This dashboard is part of a year-long MSBA capstone project optimizing warehouse storage at KDP's Sumner Distribution Center. The full solution includes:
@@ -36,6 +36,6 @@ Azure SQL Database - full ETL pipeline from SAP MB51 exports
 Tech Stack
 LayerToolApplicationPython / StreamlitDatabaseAzure SQL Server (Microsoft ODBC Driver 18)VisualizationTableau (zone heatmap, warehouse map, quarterly toolkit dashboards)LanguageSQL / T-SQL (Azure Data Studio)
 
-Team
+Team Members:
 Suzana Sarkar, Sushmitha Sirigina, Evelyn Vasquez, Yeni Bakinde, Solongo Boldtseren, Bryson Chandler
 University of Washington Tacoma - MSBA Program 2025-2026
