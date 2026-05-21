@@ -1,6 +1,6 @@
 # KDP Warehouse Re-Slotting Dashboard
 
-MSBA Internship Capstone Project for Keurig Dr Pepper Distribution Center in Sumner, Washington | University of Washington
+MSBA Internship Capstone Project for Keurig Dr Pepper Distribution Center
 
 An interactive warehouse slotting dashboard built for the KDP Sumner Distribution Center (224,000 sq ft, 5,617 bins, 281 active FG SKUs), developed as part of a client-facing internship engagement with the KDP operations team.
 
